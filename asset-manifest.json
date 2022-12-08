@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/nail-nilay/static/css/main.63beb439.css",
+    "main.js": "/nail-nilay/static/js/main.1879166e.js",
+    "static/media/BYekan_Bold.ttf": "/nail-nilay/static/media/BYekan_Bold.3e2154245604d626c3e0.ttf",
+    "static/media/instagram.png": "/nail-nilay/static/media/instagram.3c162dc2ad5659662954.png",
+    "static/media/BYekan.ttf": "/nail-nilay/static/media/BYekan.f26972c64b83c2aea5ca.ttf",
+    "static/media/heart2.png": "/nail-nilay/static/media/heart2.b228831f68c88fb80812.png",
+    "static/media/DancingScript-VariableFont_wght.ttf": "/nail-nilay/static/media/DancingScript-VariableFont_wght.3e7e73f4e34e4945f363.ttf",
+    "static/media/IRANSans-Light-web.ttf": "/nail-nilay/static/media/IRANSans-Light-web.71f8e92a06de4f9a6039.ttf",
+    "static/media/IRANSans-Bold-web.ttf": "/nail-nilay/static/media/IRANSans-Bold-web.ac55ea1ecefe68435f37.ttf",
+    "static/media/IRANSans-Medium-web.ttf": "/nail-nilay/static/media/IRANSans-Medium-web.3dc441d156b7f822c46c.ttf",
+    "static/media/telegram.png": "/nail-nilay/static/media/telegram.038a246f3301b6df57e8.png",
+    "static/media/whatsapp.png": "/nail-nilay/static/media/whatsapp.8c40ee0019a52bd23b63.png",
+    "static/media/services.jpg": "/nail-nilay/static/media/services.b3e3daf7054def54f3a2.jpg",
+    "static/media/IRANSans-Light-web.woff": "/nail-nilay/static/media/IRANSans-Light-web.0057181b7ea25b0bbc51.woff",
+    "static/media/IRANSans-Bold-web.woff": "/nail-nilay/static/media/IRANSans-Bold-web.955d345afd75e29acf58.woff",
+    "static/media/IRANSans-Medium-web.woff": "/nail-nilay/static/media/IRANSans-Medium-web.2e0a8cc4201444f12ead.woff",
+    "static/media/IRANSans-Light-web.eot": "/nail-nilay/static/media/IRANSans-Light-web.9f1489d9f1456a7e8836.eot",
+    "static/media/IRANSans-Bold-web.eot": "/nail-nilay/static/media/IRANSans-Bold-web.3e2c7e98b62e7800bd63.eot",
+    "static/media/IRANSans-Medium-web.eot": "/nail-nilay/static/media/IRANSans-Medium-web.5e7d6844cacde4e33514.eot",
+    "static/media/IRANSans-Light-web.woff2": "/nail-nilay/static/media/IRANSans-Light-web.449497382fb8cac671e7.woff2",
+    "static/media/IRANSans-Bold-web.woff2": "/nail-nilay/static/media/IRANSans-Bold-web.3bd2766ae1257b5afe3d.woff2",
+    "static/media/IRANSans-Medium-web.woff2": "/nail-nilay/static/media/IRANSans-Medium-web.a06ef2cd32bddeaf44c3.woff2",
+    "static/media/header.jpg": "/nail-nilay/static/media/header.497c351abc63f2eff46e.jpg",
+    "static/media/gmail.png": "/nail-nilay/static/media/gmail.4f10d6dbd55f9ac499cb.png",
+    "index.html": "/nail-nilay/index.html",
+    "main.63beb439.css.map": "/nail-nilay/static/css/main.63beb439.css.map",
+    "main.1879166e.js.map": "/nail-nilay/static/js/main.1879166e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63beb439.css",
+    "static/js/main.1879166e.js"
+  ]
+}
