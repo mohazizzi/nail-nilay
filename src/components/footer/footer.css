@@ -1,0 +1,23 @@
+footer {
+  position: relative;
+}
+.footer_bg {
+  background-color: var(--color-pink);
+  width: 120%;
+  height: 200px;
+  rotate: 1deg;
+}
+footer p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 4rem;
+  font-family: dancing_script;
+  font-weight: bold;
+}
+@media only screen and (max-width: 600px) {
+  footer p {
+    font-size: 2rem;
+  }
+}

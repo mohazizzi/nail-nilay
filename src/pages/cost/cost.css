@@ -1,0 +1,18 @@
+.cost-title {
+  color: var(--color-neutral-900);
+  font-size: 1.1rem;
+  text-align: center;
+}
+.costs {
+  width: 90vw;
+  margin: 0 auto;
+}
+.costs_item_group {
+  padding: 1rem 0;
+}
+.costs_item_group h3 {
+  color: var(--color-neutral-800);
+}
+.costs_item_group p {
+  color: var(--color-neutral-700);
+}

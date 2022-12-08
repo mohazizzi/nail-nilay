@@ -1,38 +1,92 @@
-.App {
-  text-align: center;
+/* ================= farsi fonts ========================= */
+@font-face {
+  font-family: iran-sans-bold;
+  font-weight: 700;
+  font-display: block;
+  src: url(./assets/fonts/iran-sans/IRANSans-Bold-web.eot);
+  src: url(./assets/fonts/iran-sans/IRANSans-Bold-web.eot?#iefix) format("eot"),
+    url(./assets/fonts/iran-sans/IRANSans-Bold-web.woff2) format("woff2"),
+    url(./assets/fonts/iran-sans/IRANSans-Bold-web.woff) format("woff"),
+    url(./assets/fonts/iran-sans/IRANSans-Bold-web.ttf) format("ttf");
+}
+@font-face {
+  font-family: iran-sans-light;
+  font-weight: 400;
+  font-display: block;
+  src: url(./assets/fonts/iran-sans/IRANSans-Light-web.eot);
+  src: url(./assets/fonts/iran-sans/IRANSans-Light-web.woff2) format("woff2"),
+    url(./assets/fonts/iran-sans/IRANSans-Light-web.woff) format("woff"),
+    url(./assets/fonts/iran-sans/IRANSans-Light-web.ttf) format("ttf");
+}
+@font-face {
+  font-family: iran-sans-med;
+  font-weight: 400;
+  font-display: block;
+  src: url(./assets/fonts/iran-sans/IRANSans-Medium-web.eot);
+  src: url(./assets/fonts/iran-sans/IRANSans-Medium-web.eot?#iefix)
+      format("eot"),
+    url(./assets/fonts/iran-sans/IRANSans-Medium-web.woff2) format("woff2"),
+    url(./assets/fonts/iran-sans/IRANSans-Medium-web.woff) format("woff"),
+    url(./assets/fonts/iran-sans/IRANSans-Medium-web.ttf) format("ttf");
+}
+@font-face {
+  font-family: byekan;
+  font-weight: 400;
+  font-display: block;
+  src: url(./assets/fonts/byekan/BYekan.ttf);
+}
+@font-face {
+  font-family: byekan-bold;
+  font-weight: 700;
+  font-display: block;
+  src: url(./assets/fonts/byekan/BYekan_Bold.ttf);
+}
+/* ========================= english fonts ============================== */
+@font-face {
+  font-family: dancing_script;
+  font-weight: 400;
+  font-display: block;
+  src: url(./assets/fonts/Dancing_Script/DancingScript-VariableFont_wght.ttf);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+:root {
+  --color-pink: #ddc0c2;
+  --color-neutral-000: #fff;
+  --color-neutral-100: #f0f0f1;
+  --color-neutral-200: #e0e0e2;
+  --color-neutral-300: #c0c2c5;
+  --color-neutral-400: #a1a3a8;
+  --color-neutral-500: #81858b;
+  --color-neutral-600: #62666d;
+  --color-neutral-700: #424750;
+  --color-neutral-800: #232933;
+  --color-neutral-900: #0c0c0c;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+body {
+  font-family: iran-sans-med;
+  background-color: var(--color-pink);
 }
-
-.App-link {
-  color: #61dafb;
+main {
+  background-color: var(--color-neutral-000);
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
+.over-flow-hiden {
+  overflow: hidden;
+}
+.container {
+  width: 80vw;
+  margin: 0 auto;
+}
+a {
+  text-decoration: none;
+  color: var(--color-neutral-600);
+}
+@media only screen and (max-width: 900px) {
+  .container {
+    width: 90vw;
   }
 }
