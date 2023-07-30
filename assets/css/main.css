@@ -726,6 +726,10 @@ footer {
 }
 .blogitem__img {
   padding: 1rem 0;
+  width: 100%;
+}
+.blogitem__img img {
+  width: 100%;
 }
 .blogitem__title {
   padding-bottom: 1rem;
